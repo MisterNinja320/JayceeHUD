@@ -117,6 +117,7 @@
 		"armedFgColor_override" "Select"
 		"depressedFgColor_override" "Select"
 		"selectedFgColor_override" "Select"
+		"fgcolor_override"      "0 255 0 255"
 	}
 		
 	"Offense"

@@ -66,7 +66,7 @@
 	{	
 		"ControlName"		"Label"
 		"fieldName"		"ProgressText"
-		"font"			"DefaultSmall"
+		"font"			"Cocogoose12"
 		"xpos"			"14"
 		"ypos"			"8"
 		"zpos"			"23"

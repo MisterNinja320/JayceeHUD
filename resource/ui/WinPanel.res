@@ -9,12 +9,12 @@
 		"wide"			"480"
 		"tall"			"84"
 		"visible"		"1"
-
+		
 		"BlueScoreBG"
 		{
 		"ControlName"		"ScalableImagePanel"
 			"fieldName"		"BlueScoreBG"
-			"xpos"			"105"
+			"xpos"			"9999"
 			"ypos"			"27"
 			"wide"			"85"
 			"tall"			"18"
@@ -32,7 +32,7 @@
 		{
 			"ControlName"		"ScalableImagePanel"
 			"fieldName"		"RedScoreBG"
-			"xpos"			"190"
+			"xpos"			"9999"
 			"ypos"			"27"
 			"wide"			"84"
 			"tall"			"18"
@@ -46,16 +46,43 @@
 		"draw_corner_width"	"3"
 		"draw_corner_height" 	"3"	
 		}
+		"BlueScoreBack"
+		{
+			"ControlName"	"ImagePanel"
+			"fieldName"	"BlueScoreBack"
+			"xpos"		"105"
+			"ypos"		"27"
+			"zpos"		"-2"
+			"wide"		"84"
+			"tall"		"18"
+			"visible"	"1"
+			"enabled"	"1"
+			"fillcolor"		"70 130 180 155"		
+		}
+		"RedScoreBack"
+		{
+			"ControlName"	"ImagePanel"
+			"fieldName"	"RedScoreBack"
+			"xpos"		"190"
+			"ypos"		"27"
+			"zpos"		"-2"
+			"wide"		"84"
+			"tall"		"18"
+			"visible"	"1"
+			"enabled"	"1"
+			"fillcolor"		"205 50 50 155"
+		}
 		"BlueTeamLabel"
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"BlueTeamLabel"
-			"font"			"surface12"
+			"font"			"Cocogoose12"
 			"fgcolor" "255 255 255 255"
 			"labelText"		"%blueteamname%"
 			"textAlignment"		"west"
 			"xpos"			"110"
 			"ypos"			"26"
+			"zpos"          "2"
 			"wide"			"43"
 			"tall"			"20"
 			"autoResize"	"0"
@@ -67,7 +94,7 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"BlueTeamScore"
-			"font"			"surface46"
+			"font"			"Cocogoose42"
 			"fgcolor" "255 255 255 255"
 			"labelText"		"%blueteamscore%"
 			"textAlignment"		"east"
@@ -85,7 +112,7 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"BlueTeamScoreDropshadow"
-			"font"			"surface46"
+			"font"			"Cocogoose42"
 			"fgcolor" "black"
 			"labelText"		"%blueteamscore%"
 			"textAlignment"		"east"
@@ -103,12 +130,13 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"RedTeamLabel"
-			"font"			"surface12"
+			"font"			"Cocogoose12"
 			"fgcolor" "255 255 255 255"
 			"labelText"		"%redteamname%"
 			"textAlignment"		"east"
 			"xpos"			"227"
 			"ypos"			"26"
+			"zpos"          "2"
 			"wide"			"43"
 			"tall"			"20"
 			"autoResize"	"0"
@@ -120,7 +148,7 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"RedTeamScore"
-			"font"			"surface46"
+			"font"			"Cocogoose42"
 			"fgcolor" "255 255 255 255"
 			"labelText"		"%redteamscore%"
 			"textAlignment"		"west"
@@ -138,7 +166,7 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"RedTeamScoreDropshadow"
-			"font"			"surface46"
+			"font"			"Cocogoose42"
 			"fgcolor" "black"
 			"labelText"		"%redteamscore%"
 			"textAlignment"		"west"
@@ -157,10 +185,10 @@
 	{
 		"ControlName"		"ImagePanel"
 		"fieldName"		"WinPanelBG"
-		"xpos"			"-102"
+		"xpos"			"99999"
 		"ypos"			"50"
 		"zpos"			"0"
-		"wide"			"496"
+		"wide"			"f0"
 		"tall"			"174"
 		"visible"		"0"
 		"enabled"		"0"
@@ -170,7 +198,7 @@
 	{	
 		"ControlName"		"CExLabel"
 		"fieldName"		"WinningTeamLabel"
-			"font"			"surface12"
+			"font"			"Cocogoose12"
 			"fgcolor" "255 255 255 255"
 		"xpos"			"60"
 		"ypos"			"112"
@@ -190,7 +218,7 @@
 	{	
 		"ControlName"		"CExLabel"
 		"fieldName"		"AdvancingTeamLabel"
-			"font"			"surface12"
+			"font"			"Cocogoose12"
 			"fgcolor" "255 255 255 255"
 		"xpos"			"60"
 		"ypos"			"112"
@@ -246,22 +274,17 @@
 	}
 	"ShadedBar"
 	{
-		"ControlName"		"ScalableImagePanel"
+		"ControlName"	"ImagePanel"
 		"fieldName"		"ShadedBar"
 		"xpos"			"60"
 		"ypos"			"116"
 		"zpos"			"2"
 		"wide"			"170"
 		"tall"			"48"
-		"autoResize"	"0"
-		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"image"			"../hud/color_panel_brown"
-		"src_corner_height"	"23"				// pixels inside the image
-		"src_corner_width"	"23"
-		"draw_corner_width"	"3"				// screen size of the corners ( and sides ), proportional
-		"draw_corner_height" 	"3"	
+		"PaintBackgroundType"	"0"
+		"fillcolor"		"0 0 0 155"
 	}
 	"TopPlayersLabel"
 	{	
@@ -337,7 +360,7 @@
 	{	
 		"ControlName"		"CExLabel"
 		"fieldName"		"Player1Name"
-		"font"			"surface10"
+		"font"			"Stark8"
 		"xpos"			"65"
 		"ypos"			"125"
 		"zpos"			"3"
@@ -356,7 +379,7 @@
 	{	
 		"ControlName"		"CExLabel"
 		"fieldName"		"Player1Class"
-		"font"			"surface10"
+		"font"			"Stark8"
 		"xpos"			"170"
 		"ypos"			"125"
 		"zpos"			"3"
@@ -373,7 +396,7 @@
 	{	
 		"ControlName"		"CExLabel"
 		"fieldName"		"Player1Score"
-		"font"			"surface11"
+		"font"			"Stark8"
 		"xpos"			"195"
 		"ypos"			"125"
 		"zpos"			"3"
@@ -407,7 +430,7 @@
 	{	
 		"ControlName"		"CExLabel"
 		"fieldName"		"Player2Name"
-		"font"			"surface10"
+		"font"			"Stark8"
 		"xpos"			"65"
 		"ypos"			"136"
 		"zpos"			"3"
@@ -426,7 +449,7 @@
 	{	
 		"ControlName"		"CExLabel"
 		"fieldName"		"Player2Class"
-		"font"			"surface10"
+		"font"			"Stark8"
 		"xpos"			"170"
 		"ypos"			"136"
 		"zpos"			"3"
@@ -445,7 +468,7 @@
 	{	
 		"ControlName"		"CExLabel"
 		"fieldName"		"Player2Score"
-		"font"			"surface11"
+		"font"			"Stark8"
 		"xpos"			"195"
 		"ypos"			"136"
 		"zpos"			"3"
@@ -479,7 +502,7 @@
 	{	
 		"ControlName"		"CExLabel"
 		"fieldName"		"Player3Name"
-		"font"			"surface10"
+		"font"			"Stark8"
 		"xpos"			"65"
 		"ypos"			"147"
 		"zpos"			"3"
@@ -498,7 +521,7 @@
 	{	
 		"ControlName"		"CExLabel"
 		"fieldName"		"Player3Class"
-		"font"			"surface10"
+		"font"			"Stark8"
 		"xpos"			"170"
 		"ypos"			"147"
 		"zpos"			"3"
@@ -517,7 +540,7 @@
 	{	
 		"ControlName"		"CExLabel"
 		"fieldName"		"Player3Score"
-		"font"			"surface11"
+		"font"			"Stark8"
 		"xpos"			"195"
 		"ypos"			"147"
 		"zpos"			"3"

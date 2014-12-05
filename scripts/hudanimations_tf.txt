@@ -284,11 +284,11 @@ event HudLowAmmoPulseStop
 	StopEvent HudLowAmmoPulse 0.0
 	StopEvent HudLowAmmoPulseLoop 0.0
 
-	Animate AmmoInClip fgcolor "White" accel 0.0 0.0
+	Animate AmmoInClip fgcolor "TanLight" accel 0.0 0.0
 
-	Animate AmmoInReserve fgcolor "White" accel 0.0 0.0
+	Animate AmmoInReserve fgcolor "50 150 225 255" accel 0.0 0.0
 
-	Animate AmmoNoClip fgcolor "White" accel 0.0 0.0
+	Animate AmmoNoClip fgcolor "TanLight" accel 0.0 0.0
 }
 
 //===========================================

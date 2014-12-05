@@ -583,8 +583,8 @@ Lozenge
 		"fieldName" "DisguiseStatus"
 		"visible"	"1"
 		"enabled"	"1"
-		"xpos"			"13"
-		"ypos"			"r70"
+		"xpos"			"c-255"
+		"ypos"			"c117"
 		"wide"		"500"
 		"tall"		"200"
 	}
@@ -1141,7 +1141,7 @@ Lozenge
 		"enabled"				"1"
 		"xpos"					"c-150"
 		"ypos"					"315"
-		"wide"					"300"
+		"wide"					"f0"
 		"tall"					"215"
 	}
 
@@ -1223,7 +1223,7 @@ Lozenge
 		"visible" 		"1"
 		"enabled" 		"1"
 		"xpos"			"10"
-		"ypos"			"275"
+		"ypos"			"75"
 		"zpos"			"2"
 		"wide"	 		"320"
 		"tall"	 		"120"

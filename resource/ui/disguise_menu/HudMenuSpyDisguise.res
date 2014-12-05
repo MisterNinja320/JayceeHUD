@@ -2,18 +2,17 @@
 {
 	"MainBackground"	
 	{
-		"ControlName"	"CIconPanel"
-		"fieldName"		"MainBackground"
-		"xpos"			"0"
-		"ypos"			"15"
+		"ControlName"	"ImagePanel"
+		"fieldName"		"ShadedBar"
+		"xpos"			"55"
+		"ypos"			"74"
 		"zpos"			"0"
-		"wide"			"470"
-		"tall"			"170"
-		"visible"		"0"
-		"enabled"		"0"
-		"scaleImage"	"0"	
-		"icon"			"hud_menu_bg"
-		"iconColor"		"255 255 255 255"
+		"wide"			"266"
+		"tall"			"64"
+		"visible"		"1"
+		"enabled"		"1"
+		"PaintBackgroundType"	"0"
+		"fillcolor"		"0 0 0 155"
 	}
 	
 	"TitleLabel"
@@ -141,8 +140,8 @@
 		"tall"			"64"
 		"autoResize"	"0"
 		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
+		"visible"		"0"
+		"enabled"		"0"
 		"image"			"../hud/color_panel_brown"
 		"src_corner_height"	"23"				// pixels inside the image
 		"src_corner_width"	"23"
@@ -387,7 +386,7 @@
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"NumberLabel1"
-		"font"			"surface13"
+		"font"			"Cocogoose12"
 		"fgcolor"		"255 255 255 255"
 		"xpos"			"93"
 		"ypos"			"117"
@@ -424,7 +423,7 @@
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"NumberLabel2"
-		"font"			"surface13"
+		"font"			"Cocogoose12"
 		"fgcolor"		"255 255 255 255"
 		"xpos"			"180"
 		"ypos"			"117"
@@ -461,7 +460,7 @@
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"NumberLabel3"
-		"font"			"surface13"
+		"font"			"Cocogoose12"
 		"fgcolor"		"255 255 255 255"
 		"xpos"			"267"
 		"ypos"			"117"

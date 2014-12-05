@@ -87,7 +87,7 @@
 	{	
 		"ControlName"		"Label"
 		"fieldName"		"TargetNameLabel"
-		"font"			"surface11"
+		"font"			"Cocogoose12"
 		"xpos"			"40"
 		"ypos"			"11"
 		"zpos"			"1"
@@ -107,7 +107,7 @@
 	{	
 		"ControlName"		"Label"
 		"fieldName"		"TargetNameLabelShadow"
-		"font"			"surface12"
+		"font"			"Cocogoose12"
 		"xpos"			"41"
 		"ypos"			"13"
 		"zpos"			"1"
@@ -127,7 +127,7 @@
 	{	
 		"ControlName"		"Label"
 		"fieldName"		"TargetDataLabel"
-		"font"			"surface10"
+		"font"			"Stark8"
 		"xpos"			"41"
 		"ypos"			"22"
 		"zpos"			"1"
@@ -156,7 +156,7 @@
 		"enabled"			"1"	
 		"HealthBonusPosAdj"	"10"
 		"HealthDeathWarning"	"0.49"
-		"TFFont"			"HudFontSmall"
+		"TFFont"			"Cocogoose12"
 		"HealthDeathWarningColor"	"HUDDeathWarning"
 		"TextColor"			"HudOffWhite"
 	}	

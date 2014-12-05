@@ -66,7 +66,7 @@
 		"enabled"		"1"
 		"labelText"		"#game_respawntime_in_secs"
 		"textAlignment"		"center"
-		"font"			"surface13"
+		"font"			"Cocogoose18"
 		"fgcolor_override" "255 255 255 200"
 		
 		"if_mvm"
