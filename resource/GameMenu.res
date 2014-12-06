@@ -37,7 +37,7 @@
 	
 	"6"
 	{
-		"label" "Character Setup"
+		"label" "LOADOUT"
 		"command" "engine open_charinfo"
 	}
 

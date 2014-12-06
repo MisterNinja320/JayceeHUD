@@ -152,7 +152,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"BuildTitle"
-		"font"			"surface15"
+		"font"			"Cocogoose16"
 		"labelText"		"#Hud_menu_build_title"
 		"textAlignment"	"center"
 		"xpos"			"0"

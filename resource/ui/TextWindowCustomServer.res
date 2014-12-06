@@ -33,7 +33,7 @@
 		"textAlignment"	"west"
 		"dulltext"		"0"
 		"brighttext"	"0"
-		"font"			"ChalkboardTitle"
+		"font"			"Bebasneue32"
 		"fgcolor"		"White"
 	}	
 
@@ -47,9 +47,9 @@
 
 	"TFTextMessage"
 	{
-		"ControlName"	"CTFRichText"
+		"ControlName"	"CExRichText"
 		"fieldName"		"TFTextMessage"
-		"font"			"ChalkboardText"
+		"font"			"Bebasneue14"
 		"xpos"			"c-184"
 		"ypos"			"125"
 		"zpos"			"1"
@@ -83,7 +83,7 @@
 	
 	"ok"
 	{
-		"ControlName"		"CTFButton"
+		"ControlName"		"CExButton"
 		"fieldName"		"ok"
 		"xpos"			"r190"
 		"ypos"			"r40"
@@ -102,22 +102,22 @@
 		"wrap"		"0"
 		"command"		"okay"
 		"default"		"1"
-		"font"			"HudFontSmallBold"
+		"font"			"Bebasneue14"
 	}
 	
 	"MenuBG"
 	{
 		"ControlName"	"CModelPanel"
 		"fieldName"		"MenuBG"
-		"xpos"			"9999999"
+		"xpos"			"0"
 		"ypos"			"0"
 		"zpos"			"0"		
 		"wide"			"f0"
 		"tall"			"480"
 		"autoResize"	"0"
 		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
+		"visible"		"0"
+		"enabled"		"0"
 		"fov"			"20"
 		
 		"model"
@@ -137,15 +137,15 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"ShadedBar"
-		"xpos"			"999999"
+		"xpos"			"0"
 		"ypos"			"r50"
 		"zpos"			"5"
 		"wide"			"f0"
 		"tall"			"50"
 		"autoResize"	"0"
 		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
+		"visible"		"0"
+		"enabled"		"0"
 		"tabPosition"	"0"	
 		"image"			"loadout_bottom_gradient"
 		"tileImage"		"1"

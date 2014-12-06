@@ -4,7 +4,7 @@
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"ItemNameLabel"
-		"font"			"surface12"
+		"font"			"Cocogoose12"
 		"xpos"			"3"
 		"ypos"			"2"
 		"zpos"			"1"
@@ -41,7 +41,7 @@
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"NotBuiltLabel"
-		"font"			"surface9"
+		"font"			"Stark8"
 		"xpos"			"3"
 		"ypos"			"24"
 		"zpos"			"2"
@@ -63,7 +63,7 @@
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"UnavailableLabel"
-		"font"			"DefaultSmall"
+		"font"			"Stark8"
 		"xpos"			"6"
 		"ypos"			"36"
 		"zpos"			"2"

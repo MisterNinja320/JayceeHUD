@@ -60,7 +60,7 @@
 		"dulltext"		"0"
 		"brighttext"	"0"
 		"font"			"Stark38"
-		"fgcolor_override"    "0 0 0 255"
+		"fgcolor_override"    "Black"
 	}
 
 	"IndividualChargesLabel"

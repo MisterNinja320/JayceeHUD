@@ -20,7 +20,7 @@
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"ItemNameLabel"
-		"font"			"surface12"
+		"font"			"Cocogoose12"
 		"xpos"			"3"
 		"ypos"			"2"
 		"zpos"			"1"
@@ -89,7 +89,7 @@
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"CostLabel"
-		"font"			"surface15"
+		"font"			"Cocogoose16"
 		"fgcolor"		"0 255 0 255" 
 		"xpos"			"3"
 		"ypos"			"50"
