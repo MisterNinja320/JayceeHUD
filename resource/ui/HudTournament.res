@@ -47,7 +47,7 @@
 				"ypos"				"25"
 				"wide"			"48"
 				"textAlignment"		"center"
-				"font"				"surface8"
+				"font"				"Stark8"
 			}
 			
 			"classimage"
@@ -93,7 +93,7 @@
 				"enabled"			"1"	
 				"HealthBonusPosAdj"	"10"
 				"HealthDeathWarning"		"0.49"
-				"TFFont"					"HudFontSmallest"
+				"TFFont"					"Stark8"
 				"HealthDeathWarningColor"	"HUDDeathWarning"
 				"TextColor"					"HudOffWhite"
 			}
@@ -143,7 +143,7 @@
 			{
 				"ControlName"	"CExLabel"
 				"fieldName"		"respawntime"
-				"font"			"DefaultSmall"
+				"font"			"Cocogoose12"
 				"xpos"			"30"
 				"ypos"			"18"
 				"zpos"			"5"
@@ -161,7 +161,7 @@
 			{
 				"ControlName"	"CExLabel"
 				"fieldName"		"chargeamount"
-				"font"			"DefaultSmall"
+				"font"			"Cocogoose12"
 				"xpos"			"25"
 				"ypos"			"17"
 				"zpos"			"6"
@@ -179,7 +179,7 @@
 			{
 				"ControlName"	"CExLabel"
 				"fieldName"		"specindex"
-				"font"			"DefaultVerySmall"
+				"font"			"Stark12"
 				"xpos"			"4"
 				"ypos"			"2"
 				"zpos"			"5"
@@ -227,7 +227,7 @@
 	{	
 		"ControlName"		"Label"
 		"fieldName"		"TournamentLabel"
-		"font"			"surface10"
+		"font"			"Stark8"
 		"xpos"			"8"
 		"ypos"			"9"
 		"zpos"			"1"
@@ -275,7 +275,7 @@
 	{	
 		"ControlName"		"Label"
 		"fieldName"		"TournamentBLUELabel"
-		"font"			"surface10"
+		"font"			"Stark8"
 		"xpos"			"c-79"
 		"ypos"			"18"
 		"zpos"			"1"
@@ -297,7 +297,7 @@
 	{	
 		"ControlName"		"Label"
 		"fieldName"		"TournamentBLUEStateLabel"
-		"font"			"surface10"
+		"font"			"Stark8"
 		"xpos"			"c-70"
 		"ypos"			"18"
 		"zpos"			"1"
@@ -345,7 +345,7 @@
 	{	
 		"ControlName"		"Label"
 		"fieldName"		"TournamentREDLabel"
-		"font"			"surface10"
+		"font"			"Stark8"
 		"xpos"			"c44"
 		"ypos"			"18"
 		"zpos"			"1"
@@ -367,7 +367,7 @@
 	{	
 		"ControlName"		"Label"
 		"fieldName"		"TournamentREDStateLabel"
-		"font"			"surface10"
+		"font"			"Stark8"
 		"xpos"			"c6"
 		"ypos"			"18"
 		"zpos"			"1"
@@ -412,7 +412,7 @@
 	{	
 		"ControlName"		"CExLabel"
 		"fieldName"		"TournamentConditionLabel"
-		"font"			"surface10"
+		"font"			"Stark8"
 		"fgcolor"		"TanLight"
 		"xpos"			"c-80"
 		"ypos"			"23"
@@ -458,7 +458,7 @@
 	{	
 		"ControlName"		"Label"
 		"fieldName"		"TournamentInstructionsLabel"
-		"font"			"TFFontSmall"
+		"font"			"Stark8"
 		"xpos"			"0"
 		"ypos"			"54"
 		"wide"			"0"
@@ -499,7 +499,7 @@
 	{	
 		"ControlName"		"CExLabel"
 		"fieldName"		"CountdownLabel"
-		"font"			"surface18"
+		"font"			"Cocogoose18"
 		"xpos"			"c-16"
 		"ypos"			"r40"
 		"wide"			"32"
@@ -518,7 +518,7 @@
 	{	
 		"ControlName"		"CExLabel"
 		"fieldName"		"CountdownLabelShadow"
-		"font"			"surface20"
+		"font"			"Cocogoose18"
 		"xpos"			"c-15"
 		"ypos"			"r55"
 		"wide"			"0"

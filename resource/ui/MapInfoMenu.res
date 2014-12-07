@@ -19,7 +19,7 @@
 	{
 		"ControlName"		"ScalableImagePanel"
 		"fieldName"		"BG"
-		"xpos"			"c-190"
+		"xpos"			"9999"
 		"ypos"			"90"
 		"zpos"			"-1"
 		"wide"			"380"
@@ -52,7 +52,7 @@
 		"enabled"		"1"
 		"labelText"		"%mapname%"
 		"textAlignment"	"west"
-		"font"			"surface20"
+		"font"			"Cocogoose18"
 		"fgcolor"		"240 240 240 255"
 	}
 	
@@ -71,7 +71,7 @@
 		"enabled"		"1"
 		"labelText"		"%gamemode%"
 		"textAlignment"	"west"
-		"font"			"surface12"
+		"font"			"Cocogoose12"
 		"fgcolor"		"200 200 200 255"
 	}	
 	
@@ -79,7 +79,7 @@
 	{
 		"ControlName"	"CTFRichText"
 		"fieldName"		"MapInfoText"
-		"font"			"surface12"
+		"font"			"Stark12"
 		"xpos"			"c-178"
 		"ypos"			"160"
 		"zpos"			"3"
@@ -128,7 +128,7 @@
 		"brighttext"	"0"
 		"command"		"continue"
 		"default"		"1"
-		"font"			"surface15"
+		"font"			"Cocogoose14"
 		"fgcolor"		"Black"
 	}
 	
@@ -151,7 +151,7 @@
 		"brighttext"	"0"
 		"command"		"intro"
 		"default"		"1"
-		"font"			"surface15"
+		"font"			"Cocogoose14"
 		"fgcolor"		"Black"
 	}
 	
@@ -173,7 +173,7 @@
 		"dulltext"		"0"
 		"brighttext"	"0"
 		"command"		"back"
-		"font"			"surface15"
+		"font"			"Cocogoose14"
 		"fgcolor"		"Black"
 	}
 	
@@ -181,7 +181,7 @@
 	{
 		"ControlName"	"CModelPanel"
 		"fieldName"		"MenuBG"
-		"xpos"			"0"
+		"xpos"			"99999"
 		"ypos"			"0"
 		"zpos"			"0"		
 		"wide"			"0"

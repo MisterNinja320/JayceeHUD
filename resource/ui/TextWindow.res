@@ -33,7 +33,7 @@
 		"textAlignment"	"west"
 		"dulltext"		"0"
 		"brighttext"	"0"
-		"font"			"Bebasneue32"
+		"font"			"Cocogoose32"
 		"fgcolor"		"White"
 	}	
 
@@ -49,7 +49,7 @@
 	{
 		"ControlName"	"CExRichText"
 		"fieldName"		"TFTextMessage"
-		"font"			"Bebasneue14"
+		"font"			"Stark14"
 		"xpos"			"c-184"
 		"ypos"			"125"
 		"zpos"			"1"
@@ -102,14 +102,14 @@
 		"wrap"		"0"
 		"command"		"okay"
 		"default"		"1"
-		"font"			"Bebasneue14"
+		"font"			"Cocogoose14"
 	}
 	
 	"MenuBG"
 	{
 		"ControlName"	"CModelPanel"
 		"fieldName"		"MenuBG"
-		"xpos"			"0"
+		"xpos"			"99999"
 		"ypos"			"0"
 		"zpos"			"0"		
 		"wide"			"f0"
