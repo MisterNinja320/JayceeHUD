@@ -6,7 +6,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"xpos"			"c-168"	[$WIN32]
-		"ypos"			"c144"	[$WIN32]
+		"ypos"			"c127"	[$WIN32]
 		"xpos_minmode"	"c-135"	[$WIN32]
 		"ypos_minmode"	"c134"	[$WIN32]
 		"wide"			"190"

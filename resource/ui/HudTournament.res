@@ -248,7 +248,7 @@
 
 	"HudTournamentBLUEBG"
 	{
-		"ControlName"		"ScalableImagePanel"
+		"ControlName"		"ImagePanel"
 		"fieldName"		"HudTournamentBLUEBG"
 		"xpos"			"c-85"
 		"ypos"			"18"
@@ -259,17 +259,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"image"			"../HUD/color_panel_blu"
-
-		"src_corner_height"	"23"				// pixels inside the image
-		"src_corner_width"	"23"
-		
-		"draw_corner_width"	"3"				// screen size of the corners ( and sides ), proportional
-		"draw_corner_height" 	"3"	
-		
-		if_mvm {
-			"visible"	"0"
-		}
+		"fillcolor"     "70 130 180 155"
 	}
 	"TournamentBLUELabel"
 	{	
@@ -318,7 +308,7 @@
 
 	"HudTournamentREDBG"
 	{
-		"ControlName"		"ScalableImagePanel"
+		"ControlName"		"ImagePanel"
 		"fieldName"		"HudTournamentREDBG"
 		"xpos"			"c"
 		"ypos"			"18"
@@ -329,17 +319,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"image"			"../HUD/color_panel_red"
-
-		"src_corner_height"	"23"				// pixels inside the image
-		"src_corner_width"	"23"
-		
-		"draw_corner_width"	"3"				// screen size of the corners ( and sides ), proportional
-		"draw_corner_height" 	"3"	
-		
-		if_mvm {
-			"visible"	"0"
-		}
+		"fillcolor"     "205 50 50 155" 
 	}
 	"TournamentREDLabel"
 	{	
@@ -387,7 +367,7 @@
 	}
 	"TournamentConditionBG"
 	{
-		"ControlName"		"ScalableImagePanel"
+		"ControlName"		"ImagePanel"
 		"fieldName"		"TournamentConditionBG"
 		"xpos"			"c-85"
 		"ypos"			"33"
@@ -396,17 +376,7 @@
 		"tall"			"15"
 		"visible"		"1"
 		"enabled"		"1"
-		"image"			"../HUD/color_panel_brown"
-		"src_corner_height"	"23"				// pixels inside the image
-		"src_corner_width"	"23"
-		
-		"draw_corner_width"	"3"				// screen size of the corners ( and sides ), proportional
-		"draw_corner_height" 	"3"
-		"scaleImage"		"1"	
-		
-		if_mvm {
-			"visible"	"0"
-		}
+        "fillcolor"      "0 0 0 155"
 	}
 	"TournamentConditionLabel"
 	{	

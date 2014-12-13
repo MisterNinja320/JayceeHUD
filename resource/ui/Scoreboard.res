@@ -46,7 +46,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fillcolor"		"HUDBlueTeam"
+		"fillcolor"		"70 130 180 155"
 	}
 	"RedScoreBG"
 	{
@@ -61,7 +61,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fillcolor"		"HUDRedTeam"
+		"fillcolor"		"205 50 50 155"
 	}
 	"MainBG"
 	{
@@ -553,9 +553,9 @@
 		"font"			"ScoreboardVerySmall"
 		"labelText"		"%spectators%"
 		"textAlignment"		"west"
-		"xpos"			"75"
+		"xpos"			"71"
 		"xpos_minmode"			"20"
-		"ypos"			"366"	[$WIN32]			//357
+		"ypos"			"376"	[$WIN32]			//357
 		"ypos"			"277"	[$X360]
 		"ypos_minmode"	"281"	[$WIN32]			//292
 		"zpos"			"4"
@@ -686,7 +686,7 @@
 		"textAlignment"	"center"			
 		"xpos"			"196"			//415
 		"xpos_minmode"	"285"
-		"ypos"			"56"			//375 425
+		"ypos"			"36"			//375 425
 		"ypos_minmode"	"294"			//310	334
 		"zpos"			"3"
 		"wide"			"200"		//165

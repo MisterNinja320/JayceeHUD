@@ -167,8 +167,8 @@ Scheme{Colors{
 		"TransparentLightBlack"	"0 0 0 90"
 		"FooterBGBlack"		"52 48 55 255"
 		
-		"HUDBlueTeam"		"104 124 155 127"
-		"HUDRedTeam"		"180 92 77 127"
+		"HUDBlueTeam"		"70 130 180 155"
+		"HUDRedTeam"		"205 50 50 155"
 		"HUDSpectator"		"124 124 124 127"
 		"HUDBlueTeamSolid"	"104 124 155 255"
 		"HUDRedTeamSolid"	"180 92 77 255"
@@ -484,8 +484,8 @@ Scheme{Colors{
 
 		"ViewportBG"		"Blank"
 		"TeamSpec"			"204 204 204 255"
-		"TeamRed"			"255 64 64 255"
-		"TeamBlue"			"153 204 255 255"
+		"TeamRed"			"205 50 50 155"
+		"TeamBlue"			"70 130 180 155"
 
 		"MapDescriptionText"	"Gray" // the text used in the map description window
 		"HudIcon_Green"		"0 160 0 255"
@@ -3384,6 +3384,15 @@ Scheme{Colors{
 			{
 				"name"		"Stark"
 				"tall"		"38"
+				"antialias" "1"
+			}
+		}
+		Stark40
+		{
+			"1"
+			{
+				"name"		"Stark"
+				"tall"		"40"
 				"antialias" "1"
 			}
 		}

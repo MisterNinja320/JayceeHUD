@@ -26,7 +26,7 @@
 	{	
 		"ControlName"		"Label"
 		"fieldName"		"AlertLabel"
-		"font"			"surface12"
+		"font"			"Cocogoose12"
 		"xpos"			"113"
 		"ypos"			"41"
 		"zpos"			"1"

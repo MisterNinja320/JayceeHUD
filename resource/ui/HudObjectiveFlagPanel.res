@@ -105,7 +105,7 @@
 		"enabled"		"1"
 		"textAlignment"	"west"	
 		"labelText"		"%bluescore%"
-		"font"			"surface36"
+		"font"			"Cocogoose32"
 		"fgcolor"		"255 255 255 255"
 		
 		"if_hybrid"
@@ -137,7 +137,7 @@
 		"enabled"		"1"
 		"textAlignment"	"west"	
 		"labelText"		"%bluescore%"
-		"font"			"surface36"
+		"font"			"Cocogoose32"
 		"fgcolor"		"60 81 100 255"
 		
 		"if_hybrid"
@@ -169,7 +169,7 @@
 		"enabled"		"1"
 		"textAlignment"	"east"	
 		"labelText"		"%redscore%"
-		"font"			"surface36"
+		"font"			"Cocogoose32"
 		"fgcolor"		"255 255 255 255"	
 		
 		"if_hybrid"
@@ -201,7 +201,7 @@
 		"enabled"		"1"
 		"textAlignment"	"east"	
 		"labelText"		"%redscore%"
-		"font"			"surface36"
+		"font"			"Cocogoose32"
 		"fgcolor"		"150 50 50 255"		
 		
 		"if_hybrid"
@@ -279,7 +279,7 @@
 		"textAlignment"	"center"
 		"dulltext"		"0"
 		"brighttext"	"0"
-		"font"			"surface12"
+		"font"			"Cocogoose12"
 		"fgcolor"		"255 255 255 255"
 		
 		"if_hybrid"

@@ -391,7 +391,7 @@ Lozenge
 		"visible" "1"
 		"enabled" "1"
 		"xpos"	"c-30"
-		"ypos"	"c79"
+		"ypos"	"c59"
 		"wide"	"250"
 		"tall"	"65"
 	}
@@ -446,7 +446,7 @@ Lozenge
 		"visible"		"1"
 		"enabled"		"1"
 		"xpos"			"c-59"
-		"ypos"			"c70"
+		"ypos"			"c50"
 		"wide"			"200"
 		"tall"			"100"
 	}
@@ -457,7 +457,7 @@ Lozenge
 		"visible"		"1"
 		"enabled"		"1"
 		"xpos"			"c-37"
-		"ypos"			"358"
+		"ypos"			"338"
 		"zpos"			"1"			// draw in front of ammo
 		"wide"			"100"
 		"tall"			"8"
@@ -546,7 +546,7 @@ Lozenge
 	{
 		"fieldName"				"CHudAccountPanel"
 		"xpos"					"c-80"
-		"ypos"					"246"
+		"ypos"					"226"
 		"wide"					"160"
 		"tall"  				"180"
 		"visible" 				"1"
@@ -558,7 +558,7 @@ Lozenge
 	{
 		"fieldName"				"CHealthAccountPanel"
 		"xpos"				"c-92"
-		"ypos"				"371"
+		"ypos"				"351"
 		"wide"				"f0"
 		"tall"  				"24"
 		"visible" 				"1"
@@ -584,7 +584,7 @@ Lozenge
 		"visible"	"1"
 		"enabled"	"1"
 		"xpos"			"c-255"
-		"ypos"			"c117"
+		"ypos"			"c97"
 		"wide"		"500"
 		"tall"		"200"
 	}
@@ -595,7 +595,7 @@ Lozenge
 		"visible" 	"0"
 		"enabled" 	"1"
 		"xpos"		"c-126"
-		"ypos"		"c54"
+		"ypos"		"c34"
 		"wide"	 	"252"
 		"tall"	 	"34"
 		"priority"	"40"
@@ -1273,7 +1273,7 @@ Lozenge
 		"visible"		"1"
 		"enabled"		"1"
 		"xpos"			"c-37"
-		"ypos"			"334"
+		"ypos"			"314"
 		"wide"			"74"
 		"tall"			"50"
 	}
