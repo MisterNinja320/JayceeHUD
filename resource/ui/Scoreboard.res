@@ -201,7 +201,7 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"BlueTeamPlayerCount"
-		"font"			"Cocogoose28"
+		"font"			"Spyroclassic28"
 		"labelText"		"%blueteamplayercount%"
 		"textAlignment"		"west"
 		"xpos"			"100"			//150
@@ -359,7 +359,7 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"RedTeamPlayerCount"
-		"font"			"Cocogoose28"
+		"font"			"Spyroclassic28"
 		"labelText"		"%redteamplayercount%"
 		"textAlignment"		"east"
 		"xpos"			"350"		//350
@@ -410,12 +410,12 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"ServerLabel"
-		"font"			"Cocogoose14"
+		"font"			"Spyroclassic16"
 		"labelText"		"%server%"
 		"textAlignment"		"west"
 		"xpos"			"0"
 		"xpos_minmode"			"20"		//11
-		"ypos"			"59"			//60
+		"ypos"			"55"			//60
 		"ypos_minmode"	"294"			//130
 		"zpos"			"5"
 		"wide"			"300"
@@ -435,12 +435,12 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"ServerTimeLeft"
-		"font"			"Cocogoose14"
+		"font"			"Spyroclassic16"
 		"labelText"		"%servertimeleft%"
 		"textAlignment"		"east"
 		"xpos"			"300"			//285
 		"xpos_hidef"	"31"
-		"ypos"			"59"				//60
+		"ypos"			"55"				//60
 		"ypos_lodef"	"62"
 		"ypos_minmode"	"294"
 		"ypos_lodef_minmode"	"132"

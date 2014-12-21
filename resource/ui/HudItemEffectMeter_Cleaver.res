@@ -48,7 +48,7 @@
 		"textAlignment"			"center"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"font"					"ItemEffectMeterLabels"
+		"font"					"Stark8"
 		"fgcolor_override"		"0 0 0 255"
 	}
 

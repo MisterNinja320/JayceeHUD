@@ -3568,6 +3568,168 @@ Scheme{Colors{
 				"antialias" "1"
 			}
 		}
+		Spyroclassic12
+		{
+			"1"
+			{
+				"name"		"Spyroclassic"
+				"tall"		"12"
+				"antialias" "1"
+			}
+		}
+		Spyroclassic16
+		{
+			"1"
+			{
+				"name"		"Spyroclassic"
+				"tall"		"16"
+				"antialias" "1"
+			}
+		}
+		Spyroclassic18
+		{
+			"1"
+			{
+				"name"		"Spyroclassic"
+				"tall"		"18"
+				"antialias" "1"
+			}
+		}
+		Spyroclassic22
+		{
+			"1"
+			{
+				"name"		"Spyroclassic"
+				"tall"		"22"
+				"antialias" "1"
+			}
+		}
+		Spyroclassic24
+		{
+			"1"
+			{
+				"name"		"Spyroclassic"
+				"tall"		"24"
+				"antialias" "1"
+			}
+		}
+		Spyroclassic26
+		{
+			"1"
+			{
+				"name"		"Spyroclassic"
+				"tall"		"26"
+				"antialias" "1"
+			}
+		}
+		Spyroclassic28
+		{
+			"1"
+			{
+				"name"		"Spyroclassic"
+				"tall"		"28"
+				"antialias" "1"
+			}
+		}
+		Spyroclassic32
+		{
+			"1"
+			{
+				"name"		"Spyroclassic"
+				"tall"		"32"
+				"antialias" "1"
+			}
+		}
+		Spyroclassic34
+		{
+			"1"
+			{
+				"name"		"Spyroclassic"
+				"tall"		"34"
+				"antialias" "1"
+			}
+		}
+		Spyroclassic36
+		{
+			"1"
+			{
+				"name"		"Spyroclassic"
+				"tall"		"36"
+				"antialias" "1"
+			}
+		}
+		Spyroclassic38
+		{
+			"1"
+			{
+				"name"		"Spyroclassic"
+				"tall"		"38"
+				"antialias" "1"
+			}
+		}
+		Spyroclassic42
+		{
+			"1"
+			{
+				"name"		"Spyroclassic"
+				"tall"		"42"
+				"antialias" "1"
+			}
+		}
+		Spyroclassic44
+		{
+			"1"
+			{
+				"name"		"Spyroclassic"
+				"tall"		"44"
+				"antialias" "1"
+			}
+		}
+		Spyroclassic46
+		{
+			"1"
+			{
+				"name"		"Spyroclassic"
+				"tall"		"46"
+				"antialias" "1"
+			}
+		}
+		Spyroclassic48
+		{
+			"1"
+			{
+				"name"		"Spyroclassic"
+				"tall"		"48"
+				"antialias" "1"
+			}
+		}
+		Spyroclassic52
+		{
+			"1"
+			{
+				"name"		"Spyroclassic"
+				"tall"		"52"
+				"antialias" "1"
+			}
+		}
+		Spyroclassic54
+		{
+			"1"
+			{
+				"name"		"Spyroclassic"
+				"tall"		"54"
+				"antialias" "1"
+			}
+		}
+		Spyroclassic56
+		{
+			"1"
+			{
+				"name"		"Spyroclassic"
+				"tall"		"56"
+				"antialias" "1"
+			}
+		}
 	}
 
 	//
@@ -5097,7 +5259,12 @@ Scheme{Colors{
 		"14"
 		{
 			"font" "resource/fonts/Cocogoose_trial.otf"
-			"name" "COCOGOOSE"		
+			"name" "COCOGOOSE"
+		}	
+		"15"
+		{
+			"font" "resource/fonts/spyroclassic.ttf"
+			"name" "Spyroclassic"	
 		}
 	}
 }

@@ -51,7 +51,7 @@
 		"fieldName"		"mapname"
 		"xpos"			"c-70"
 		"ypos"			"c-249"
-		"wide"			"200"
+		"wide"			"400"
 		"tall"			"60"
 		"autoResize"	"0"
 		"pinCorner"		"0"

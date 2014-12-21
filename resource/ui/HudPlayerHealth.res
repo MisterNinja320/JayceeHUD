@@ -69,7 +69,7 @@
 		"enabled"		"1"
 		"labelText"		"%Health%"
 		"textAlignment"	"center"	
-		"font"		"Stark38"
+		"font"		"Spyroclassic38"
 		"fgcolor"		"HP"
 	}	
 	"PlayerStatusHealthValueShadow"
@@ -81,11 +81,11 @@
 		"zpos"		"5"
 		"wide"		"150"
 		"tall"		"100"
-		"visible"		"1"
-		"enabled"		"1"
+		"visible"		"0"
+		"enabled"		"0"
 		"labelText"		"%Health%"
 		"textAlignment"	"center"	
-		"font"		"Stark38"
+		"font"		"Spyroclassic38"
 		"fgcolor"		"Black"
 	}								
 	"PlayerStatusHealthValueShadow2"
