@@ -1,148 +1,118 @@
-"GameMenu" [$WIN32]
-{	
-    "1"
-	{
-		"label" "JC_HUD_Beta"
-		"command" " "
-		"OnlyInGame" "0"
-	}
-
-	"2"
-	{
-		"label" "#GameUI_GameMenu_ResumeGame"
-		"command" "ResumeGame"
-		"OnlyInGame" "1"
-	}
-
-	"3"
-	{
-		"label" "#GameUI_GameMenu_Disconnect"
-		"command" "Disconnect"
-		"OnlyInGame" "1"
-	}
-
-	"4"
-	{
-		"label" "New Game" 
-		"command" "OpenServerBrowser"
-		"OnlyInGame" "1"
-	}
-
-	"5"
-	{
-		"label" ""
-		"command" " "
-		"OnlyInGame" "1"
-	}
-	
-	"6"
-	{
-		"label" "LOADOUT"
-		"command" "engine open_charinfo"
-	}
-
-	"7"
-	{
-		"label" "#GameUI_GameMenu_Achievements"
-		"command" "OpenAchievementsDialog"
-	}
-	"8"
-	{
-		"label" "#GameUI_GameMenu_Options"
-		"command" "OpenOptionsDialog"
-	}
-        "9"
-        {        
-                 "label" "Advanced Options"
-                 "command" "OpenTF2Options"
-        }
-        "10"
-	{
-		"label" "#MMenu_Shop"
-		"command" "engine open_store"
-	}	
-	
-	
-	"11"
-	{
-		"label" ""
-		"command" " "
-	}
-
-	"12"
-	{
-		"label" "#MMenu_StartPlaying" 
-		"command" "OpenServerBrowser"
-		"OnlyAtMenu" "1"
-	} 
-
-	"13"
-	{
-		"label" "#GameUI_GameMenu_CreateServer"
-		"command" "OpenCreateMultiplayerGameDialog"
-                "OnlyAtMenu" "1"
-	}
-
-        "14"
-	{
-		"label" "Play MVM" 
-		"command" "playpve"
-		"OnlyAtMenu" "1"
-	}
-
-	"15"
-	{
-		"label" "#TF_Training"
-		"command" "offlinepractice"
-		"OnlyAtMenu" "1"
-	}
-
-        "16"
-	{
-		"label" ""
-		"command" " "
-                "OnlyAtMenu" "1"
-	}
+"GameMenu"
+{
+"ResumeGameButton"
+{
+"label" "#MMenu_ResumeGame"
+"command" "ResumeGame"
+"OnlyInGame" "1"
+"subimage" "icon_resume"
+}
+"QuickplayButton"
+{
+"label" "Multiplayer"
+"command" "quickplay"
+"subimage" "glyph_multiplayer"
+"OnlyAtMenu" "1"
+}
+"QuickplayChangeButton"
+{
+"label" "#MMenu_NewGame"
+"command" "quickplay"
+"subimage" "glyph_server"
+"OnlyInGame" "1"
+}
+"PlayPVEButton"
+{
+"label" "Cooperative"
+"command" "playpve"
+"subimage" "glyph_coop"
+"OnlyAtMenu" "1"
+}
+"ServerBrowserButton"
+{
+"label" "Servers"
+"command" "OpenServerBrowser"
+"subimage" "glyph_server_browser"
+"OnlyAtMenu" "1"
+}
+"ChangeServerButton"
+{
+"label" "#MMenu_ChangeServer"
+"command" "OpenServerBrowser"
+"subimage" "glyph_server_browser"
+"OnlyInGame" "1"
+}
+"ReplayBrowserButton"
+{
+"label" "Replays"
+"command" "engine replay_reloadbrowser"
+"subimage" "glyph_tv"
+}
+"SteamWorkshopButton"
+{
+"label" "Workshop"
+"command" "engine OpenSteamWorkshopDialog"
+"subimage" "glyph_steamworkshop"
+}
+"VRModeButton"
+{
+"label" "#MMenu_VRMode_Activate"
+"command" "engine vr_toggle"
+"subimage" "glyph_vr"
+"OnlyWhenVREnabled" "1"
+}
+"TrainingButton"
+{
+"label" "Training"
+"command" "offlinepractice"
+"subimage" "glyph_practice"
+"OnlyAtMenu" "1"
+}
 
 
-	"17"
-	{
-		"label"	"#GameUI_LoadCommentary"
-		"command" "OpenLoadSingleplayerCommentaryDialog"
-		"OnlyAtMenu" "1"
-	}
-
-        "18"
-	{
-		"label" "#GameUI_GameMenu_ReplayDemos"
-		"command" "engine replay_reloadbrowser"
-		"OnlyAtMenu" "1"
-	}
 
 
-	"19"
-	{
-		"label" "Call A Vote"
-		"command" "callvote"
-		"OnlyInGame"	"1"
-	}
+"CreateServerButton"
+{
+"label" "Create"
+"command" "OpenCreateMultiplayerGameDialog"
+"OnlyAtMenu" "1"
+}
+"GeneralStoreButton"
+{
+"label" "Store"
+"command" "engine open_store"
+"subimage" "glyph_store"
+}
+"CharacterSetupButton"
+{
+"label" "Items"
+"command" "engine open_charinfo"
+"subimage" "glyph_items"
+}
 
-        "20"
-	{
-		"label"	 "Mute Players"
-		"command" "OpenPlayerListDialog"
-		"OnlyInGame"	"1"
-	}
-	
-	"21"
-	{
-		"label" "#GameUI_ReportBug"
-		"command" "engine bug"
-	}
-	
-	"22"
-	{
-		"label" "#GameUI_GameMenu_Quit"
-		"command" "Quit"
-	}
+
+
+
+"CallVoteButton"
+{
+"label" "Call Vote"
+"command" "callvote"
+"OnlyInGame" "1"
+"subimage" "icon_checkbox"
+}
+"MutePlayersButton"
+{
+"label" "Mute Players"
+"command" "OpenPlayerListDialog"
+"OnlyInGame" "1"
+"subimage" "glyph_muted"
+}
+"RequestCoachButton"
+{
+"label" "Request Coach"
+"command" "engine cl_coach_find_coach"
+"OnlyInGame" "1"
+"subimage" "icon_whistle"
+}
 }

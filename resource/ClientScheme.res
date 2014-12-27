@@ -1484,7 +1484,7 @@ Scheme{Colors{
 		{
 			"1"
 			{
-				"name"		"Surface-Medium"
+				"name"		"Stark"
 				"tall"		"10"
 				"additive"	"0"
 				"antialias" 	"1"
