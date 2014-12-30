@@ -7,7 +7,7 @@
 		"visible" 		        "1"
 		"enabled" 		        "1"
 		"xpos"			          "7"
-		"ypos"			          "168"
+		"ypos"			          "4"
 		"wide"	 		          "260"
 		"tall"	 		          "130"
 		"fgcolor"		"HudFontSmallBold"

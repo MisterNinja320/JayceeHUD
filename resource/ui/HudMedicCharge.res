@@ -35,7 +35,7 @@
 		"textAlignment"	"west"
 		"dulltext"		"0"
 		"brighttext"	"0"
-		"font"			"Spyroclassic38"
+		"font"			"Zeronero38"
 	}
 
 	"IndividualChargesLabel"
@@ -67,7 +67,7 @@
 		"xpos"			"75"
 		"ypos"			"30"
 		"zpos"			"-1"
-		"wide"			"63"
+		"wide"			"77"
 		"tall"			"32"				
 		"autoResize"	"0"
 		"pinCorner"		"0"

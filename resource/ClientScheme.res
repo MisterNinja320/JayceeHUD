@@ -2653,7 +2653,7 @@ Scheme{Colors{
 		{
 			"1"
 			{
-				"name"		"TF2"
+				"name"		"Stark"
 				"tall"		"12"
 				"weight"	"700"
 				"yres"		"480 599"
@@ -2661,7 +2661,7 @@ Scheme{Colors{
 			}
 			"2"
 			{
-				"name"		"Verdana"
+				"name"		"Stark"
 				"tall"		"13"
 				"weight"	"700"
 				"yres"		"600 767"
@@ -2669,7 +2669,7 @@ Scheme{Colors{
 			}
 			"3"
 			{
-				"name"		"Verdana"
+				"name"		"Stark"
 				"tall"		"14"
 				"weight"	"700"
 				"yres"		"768 1023"
@@ -2677,7 +2677,7 @@ Scheme{Colors{
 			}
 			"4"
 			{
-				"name"		"Verdana"
+				"name"		"Stark"
 				"tall"		"20"
 				"weight"	"700"
 				"yres"		"1024 1199"
@@ -2685,7 +2685,7 @@ Scheme{Colors{
 			}
 			"5"
 			{
-				"name"		"Verdana"
+				"name"		"Stark"
 				"tall"		"24"
 				"weight"	"700"
 				"yres"		"1200 10000"
@@ -3568,164 +3568,164 @@ Scheme{Colors{
 				"antialias" "1"
 			}
 		}
-		Spyroclassic12
+		Zeronero12
 		{
 			"1"
 			{
-				"name"		"Spyroclassic"
+				"name"		"Zeronero Black"
 				"tall"		"12"
 				"antialias" "1"
 			}
 		}
-		Spyroclassic16
+		Zeronero16
 		{
 			"1"
 			{
-				"name"		"Spyroclassic"
+				"name"		"Zeronero Black"
 				"tall"		"16"
 				"antialias" "1"
 			}
 		}
-		Spyroclassic18
+		Zeronero18
 		{
 			"1"
 			{
-				"name"		"Spyroclassic"
+				"name"		"Zeronero Black"
 				"tall"		"18"
 				"antialias" "1"
 			}
 		}
-		Spyroclassic22
+		Zeronero22
 		{
 			"1"
 			{
-				"name"		"Spyroclassic"
+				"name"		"Zeronero Black"
 				"tall"		"22"
 				"antialias" "1"
 			}
 		}
-		Spyroclassic24
+		Zeronero24
 		{
 			"1"
 			{
-				"name"		"Spyroclassic"
+				"name"		"Zeronero Black"
 				"tall"		"24"
 				"antialias" "1"
 			}
 		}
-		Spyroclassic26
+		Zeronero26
 		{
 			"1"
 			{
-				"name"		"Spyroclassic"
+				"name"		"Zeronero Black"
 				"tall"		"26"
 				"antialias" "1"
 			}
 		}
-		Spyroclassic28
+		Zeronero28
 		{
 			"1"
 			{
-				"name"		"Spyroclassic"
+				"name"		"Zeronero Black"
 				"tall"		"28"
 				"antialias" "1"
 			}
 		}
-		Spyroclassic32
+		Zeronero32
 		{
 			"1"
 			{
-				"name"		"Spyroclassic"
+				"name"		"Zeronero Black"
 				"tall"		"32"
 				"antialias" "1"
 			}
 		}
-		Spyroclassic34
+		Zeronero34
 		{
 			"1"
 			{
-				"name"		"Spyroclassic"
+				"name"		"Zeronero Black"
 				"tall"		"34"
 				"antialias" "1"
 			}
 		}
-		Spyroclassic36
+		Zeronero36
 		{
 			"1"
 			{
-				"name"		"Spyroclassic"
+				"name"		"Zeronero Black"
 				"tall"		"36"
 				"antialias" "1"
 			}
 		}
-		Spyroclassic38
+		Zeronero38
 		{
 			"1"
 			{
-				"name"		"Spyroclassic"
+				"name"		"Zeronero Black"
 				"tall"		"38"
 				"antialias" "1"
 			}
 		}
-		Spyroclassic42
+		Zeronero42
 		{
 			"1"
 			{
-				"name"		"Spyroclassic"
+				"name"		"Zeronero Black"
 				"tall"		"42"
 				"antialias" "1"
 			}
 		}
-		Spyroclassic44
+		Zeronero44
 		{
 			"1"
 			{
-				"name"		"Spyroclassic"
+				"name"		"Zeronero Black"
 				"tall"		"44"
 				"antialias" "1"
 			}
 		}
-		Spyroclassic46
+		Zeronero46
 		{
 			"1"
 			{
-				"name"		"Spyroclassic"
+				"name"		"Zeronero Black"
 				"tall"		"46"
 				"antialias" "1"
 			}
 		}
-		Spyroclassic48
+		Zeronero48
 		{
 			"1"
 			{
-				"name"		"Spyroclassic"
+				"name"		"Zeronero Black"
 				"tall"		"48"
 				"antialias" "1"
 			}
 		}
-		Spyroclassic52
+		Zeronero52
 		{
 			"1"
 			{
-				"name"		"Spyroclassic"
+				"name"		"Zeronero Black"
 				"tall"		"52"
 				"antialias" "1"
 			}
 		}
-		Spyroclassic54
+		Zeronero54
 		{
 			"1"
 			{
-				"name"		"Spyroclassic"
+				"name"		"Zeronero Black"
 				"tall"		"54"
 				"antialias" "1"
 			}
 		}
-		Spyroclassic56
+		Zeronero56
 		{
 			"1"
 			{
-				"name"		"Spyroclassic"
+				"name"		"Zeronero Black"
 				"tall"		"56"
 				"antialias" "1"
 			}
@@ -5263,8 +5263,8 @@ Scheme{Colors{
 		}	
 		"15"
 		{
-			"font" "resource/fonts/spyroclassic.ttf"
-			"name" "Spyroclassic"	
+			"font" "resource/fonts/zeronero.ttf"
+			"name" "Zeronero Black"	
 		}
 	}
 }

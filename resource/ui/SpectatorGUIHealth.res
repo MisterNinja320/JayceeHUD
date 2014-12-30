@@ -68,7 +68,7 @@
 		"enabled"		"1"
 		"labeltext"		"%Health%"
 		"textAlignment"		"center"
-		"font"			"Spyroclassic18"
+		"font"			"Zeronero18"
 		"fgcolor_override" "255 255 255 255"
 	}
 	"PlayerStatusHealthValueTargetIDshadow"
@@ -80,11 +80,11 @@
 		"zpos"			"7"
 		"wide"			"76"
 		"tall"			"20"
-		"visible"		"0"
-		"enabled"		"0"
+		"visible"		"1"
+		"enabled"		"1"
 		"labeltext"		"%Health%"
 		"textAlignment"		"center"
-		"font"			"Cocogoose18"
-		"fgcolor_override" "0 0 0 255"
+		"font"			"Zeronero18"
+		"fgcolor_override" "Black"
 	}
 }

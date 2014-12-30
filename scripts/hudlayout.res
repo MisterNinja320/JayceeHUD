@@ -558,7 +558,7 @@ Lozenge
 	{
 		"fieldName"				"CHealthAccountPanel"
 		"xpos"				"c-92"
-		"ypos"				"351"
+		"ypos"				"359"
 		"wide"				"f0"
 		"tall"  				"24"
 		"visible" 				"1"
@@ -644,7 +644,7 @@ Lozenge
 		"visible"	"1"
 		"enabled"	"1"
 		"xpos"		"0"
-		"ypos"		"0"
+		"ypos"		"110"
 		"wide"		"640"
 		"tall"		"480"
 		

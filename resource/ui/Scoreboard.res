@@ -198,7 +198,7 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"BlueTeamPlayerCount"
-		"font"			"Spyroclassic16"
+		"font"			"Zeronero16"
 		"labelText"		"%blueteamplayercount%"
 		"textAlignment"		"west"
 		"xpos"			"100"			//150
@@ -350,7 +350,7 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"RedTeamPlayerCount"
-		"font"			"Spyroclassic16"
+		"font"			"Zeronero16"
 		"labelText"		"%redteamplayercount%"
 		"textAlignment"		"east"
 		"xpos"			"350"		//350
@@ -399,7 +399,7 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"ServerLabel"
-		"font"			"Spyroclassic16"
+		"font"			"Zeronero16"
 		"labelText"		"%server%"
 		"textAlignment"		"west"
 		"xpos"			"0"
@@ -423,7 +423,7 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"		"ServerTimeLeft"
-		"font"			"Spyroclassic16"
+		"font"			"Zeronero16"
 		"labelText"		"%servertimeleft%"
 		"textAlignment"		"west"
 		"xpos"			"0"			//285
@@ -1004,8 +1004,8 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"KillsLabel"
-			"font"			"Spyroclassic24"
-			"font_minmode"  "Spyroclassic12"
+			"font"			"Zeronero24"
+			"font_minmode"  "Zeronero12"
 			"labelText"		"#TF_ScoreBoard_KillsLabel"		//"#TF_ScoreBoard_KillsLabel"
 			"textAlignment"		"east"
 			"xpos"			"-37"
@@ -1024,8 +1024,8 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"DeathsLabel"
-			"font"			"Spyroclassic24"
-			"font_minmode"  "Spyroclassic12"
+			"font"			"Zeronero24"
+			"font_minmode"  "Zeronero12"
 			"labelText"		"#TF_ScoreBoard_DeathsLabel"		//"#TF_ScoreBoard_DeathsLabel"
 			"textAlignment"		"east"
 			"xpos"			"85"				//+70
