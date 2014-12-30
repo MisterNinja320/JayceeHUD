@@ -558,7 +558,7 @@ Lozenge
 	{
 		"fieldName"				"CHealthAccountPanel"
 		"xpos"				"c-92"
-		"ypos"				"359"
+		"ypos"				"366"
 		"wide"				"f0"
 		"tall"  				"24"
 		"visible" 				"1"
@@ -631,7 +631,7 @@ Lozenge
 		"visible"	"1"
 		"enabled"	"1"
 		"xpos"		"0"
-		"ypos"		"0"		
+		"ypos"		"110"		
 		"wide"		"640"
 		"tall"		"480"
 		
@@ -1223,7 +1223,7 @@ Lozenge
 		"visible" 		"1"
 		"enabled" 		"1"
 		"xpos"			"10"
-		"ypos"			"75"
+		"ypos"			"275"
 		"zpos"			"2"
 		"wide"	 		"320"
 		"tall"	 		"120"
@@ -1251,6 +1251,17 @@ Lozenge
 		"ypos"			"c-50"
 		"wide"			"300"
 		"tall"			"195"
+		"PaintBackgroundType"	"0"
+	}
+        "HudEurekaEffectTeleportMenu"
+	{
+		"fieldName" 	"HudEurekaEffectTeleportMenu"
+		"visible" 		"1"
+		"enabled" 		"1"
+		"xpos"			"c-125"
+		"ypos"			"c-55"
+		"wide"			"500"
+		"tall"			"200"
 		"PaintBackgroundType"	"0"
 	}
 	
@@ -1449,8 +1460,8 @@ Lozenge
 		"ControlName"	"EditablePanel"
 		"fieldName"		"HudAchievementTracker"
 		"xpos"			"5"
-		"NormalY"		"10"
-		"EngineerY"		"170"
+		"NormalY"		"390"
+		"EngineerY"		"390"
 		"zpos"			"2"
 		"wide"			"200"
 		"tall"			"280"

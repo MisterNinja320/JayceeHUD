@@ -448,7 +448,7 @@
 		"ControlName"	"SectionedListPanel"
 		"fieldName"		"BluePlayerList"
 		"xpos"			"12"
-		"ypos"			"290"		//72
+		"ypos"			"292"		//72
 		"ypos_minmode"   "370"
 		"zpos"			"20"
 		"wide"			"290"
@@ -472,7 +472,7 @@
 		"ControlName"	"SectionedListPanel"
 		"fieldName"		"RedPlayerList"
 		"xpos"			"296"
-		"ypos"			"290"
+		"ypos"			"292"
 		"ypos_minmode"    "370"
 		"zpos"			"20"
 		"wide"			"290"
@@ -597,6 +597,26 @@
 			"ypos_minmode"	"372"	[$WIN32]
 		}
 	}
+	"ShadedBar2"
+	{
+		"ControlName"		"ImagePanel"
+		"fieldName"		"ShadedBar"
+		"xpos"			"-4"
+		"xpos_hidef"	"30"
+		"ypos"			"293"	[$WIN32]			//37207
+		"zpos"			"2"
+		"wide"			"608"
+		"wide_lodef"	"539"
+		"wide_hidef"	"559"
+		"tall"			"164"			//70
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"	"0"	
+		"fillcolor"		"255 255 255 5"
+		"PaintBackgroundType"	"0"
+	}	
 	"ClassImage"
 	{
 		"ControlName"		"ImagePanel"
@@ -1024,11 +1044,11 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"DeathsLabel"
-			"font"			"Zeronero24"
+			"font"			"Zeronero22"
 			"font_minmode"  "Zeronero12"
 			"labelText"		"#TF_ScoreBoard_DeathsLabel"		//"#TF_ScoreBoard_DeathsLabel"
 			"textAlignment"		"east"
-			"xpos"			"85"				//+70
+			"xpos"			"90"				//+70
 			"xpos_minmode"			"35"
 			"ypos"			"15"	[$WIN32]	//+10
 			"ypos_minmode"			"-5"
@@ -1102,7 +1122,7 @@
 			"font"			"Cocogoose42"
 			"labelText"		"%deaths%"
 			"textAlignment"		"west"
-			"xpos"			"183"
+			"xpos"			"190"
 			"xpos_minmode"			"106"
 			"ypos"			"3"	[$WIN32]
 			"ypos_minmode"			"-1"
